@@ -1,0 +1,8 @@
+outcmaes/*
+sims_out/**/*
+sims_out/**/*.png
+__pycache__/**/*
+*.out
+.ipynb_checkpoints/
+python-env/**/*
+cmaes_test/**/*
